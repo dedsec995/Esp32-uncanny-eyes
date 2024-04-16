@@ -1,1 +1,2 @@
-# my_esp32_uncanny_eyes
+# Esp32_uncanny_eyes
+Code to display eyes animation on TFT Display with ESP32
